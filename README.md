@@ -1,4 +1,4 @@
-# learning_better_dale_nips
+# learning_better_dale
 Learning better with Dale's law: A Spectral Perspective
 
 To run the code, first make the environment
