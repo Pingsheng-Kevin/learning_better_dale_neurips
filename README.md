@@ -29,5 +29,5 @@ Figure 4 in `analysis_in_notebooks/SVD_transplant.ipynb`
 
 Figure 5,6 in `analysis_in_notebooks/Exp_learning_curve.ipynb` and `analysis_in_notebooks/SVD_entropy_analysis.ipynb`
 
-Figure 7 in `analysis_in_notebooks/Entropy_predictive`
+Figure 7 in `analysis_in_notebooks/Entropy_predictive.ipynb`
 
