@@ -19,5 +19,5 @@ All visualizations and figures are generated using jupyter notebooks, see `analy
 
 Code base is located in `lib/`; python scripts for experiments are in `exps/`
 
-
+All Figures can be found in `analysis_in_notebooks/`
 
