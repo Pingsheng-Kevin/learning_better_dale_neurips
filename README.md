@@ -13,7 +13,7 @@ If env is already made, load environment
 
 After the env is ready, run specific experiments using script in `shell_scripts/`
 
-`sbatch specific_exp_scritps`
+`sbatch specific_exp_scripts`
 
 All visualizations and figures are generated using jupyter notebooks, see `analysis_in_notebooks/`
 
