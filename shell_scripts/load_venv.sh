@@ -21,4 +21,4 @@ else
 	echo "ERROR: Virtual enviroment does not exist... exiting"
 fi 
 
-export PYTHONPATH=$PYTHONPATH:~/dann_rnns
+export PYTHONPATH=$PYTHONPATH:~/learning_better_dale_nips
