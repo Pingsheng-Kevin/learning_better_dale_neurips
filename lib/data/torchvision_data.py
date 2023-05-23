@@ -13,29 +13,6 @@ from lib import utils
 from pathlib import Path
 
 
-"""
-May 24th 
-
-JC and RE working on this file. We have a bit of an issue with consistency of the dataset bject
-interface that get_dataloader_xy expects, and the general way we are handing datasets and 
-dataloaders from pytorch. 
-
-We want to move to a more consistent setup. Perhaps best done when fold in cfiar. 
-
-Make more modular by removing convienance functiojns for indivual datasets
-
-Todo:
-    - Cifar   
-    - if not on the mila server, download data using torchvision
-      to a local directory.
-
-"""
-def get_cifar_datasets():
-    # for roy to find mila server cifar torchvision path and code up here
-    pass
-
-    #return full_trainset, test_set
-
 def get_torchvision_data(dataset_name, directory = str(Path.home()/ "scratch/data")) -> Path:
     """ 
     Returns path to a torchvision dataset. Downloads using torchvision if not found in data_root.

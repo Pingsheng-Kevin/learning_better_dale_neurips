@@ -1,10 +1,11 @@
-# learning_better_dale
+# learning_better_dale_nips
 Learning better with Dale's law: A Spectral Perspective
 
 To run the code, first make the environment
 
-`cd shell_scripts
-source make_env.sh`
+`cd shell_scripts`
+
+`source make_env.sh`
 
 If env is already made, load environment
 
@@ -16,7 +17,7 @@ After the env is ready, run specific experiments using script in `shell_scripts/
 
 All visualizations and figures are generated using jupyter notebooks, see `analysis_in_notebooks/`
 
-Code base is located in `lib`; python scripts for experiments are in `exps`
+Code base is located in `lib/`; python scripts for experiments are in `exps/`
 
 
 
