@@ -21,3 +21,5 @@ Code base is located in `lib/`; python scripts for experiments are in `exps/`
 
 All Figures can be found in `analysis_in_notebooks/`
 
+Figure 1 can be found in `analysis_in_notebooks/`
+
